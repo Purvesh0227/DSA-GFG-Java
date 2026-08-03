@@ -12,4 +12,4 @@
 <strong>Output:</strong> [0, 0]
 <strong>Explanation:</strong> No change in array as there are all 0s.</span></pre>
 <p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>5</sup><br>0 ≤ arr[i] ≤ 10<sup>5</sup></span></p>
-<div id="professor_prebid-root"></div></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Samsung</code>&nbsp;<code>SAP Labs</code>&nbsp;<code>Linkedin</code>&nbsp;<code>Bloomberg</code>&nbsp;<code>NPCI</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;<code>Data Structures</code>&nbsp;
+<div id="professor_prebid-root"></div></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Paytm</code>&nbsp;<code>Amazon</code>&nbsp;<code>Microsoft</code>&nbsp;<code>Samsung</code>&nbsp;<code>SAP Labs</code>&nbsp;<code>Linkedin</code>&nbsp;<code>Bloomberg</code>&nbsp;<code>NPCI</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;
