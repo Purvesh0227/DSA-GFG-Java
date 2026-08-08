@@ -3,10 +3,11 @@ class Solution {
     int majorityElement(vector<int>& arr) {
         // code here
         unordered_map<int,int> count;
-        for(int x:arr) count[x]++;
-        for(auto& [num,c] : count){
-            if(c>arr.size()/2) return num;
+        for(int x:arr){
+            count[x]++;
+            if(count[x]>arr.size()/2) return x;
         }
-        return -1;
-    }
+            return -1;
+        
+     }
 };
